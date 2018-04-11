@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "RSA",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"p",
+		"q",
+		"n",
+		"e",
+		"d",
+		"alphabetSize"
+	],
+	"name" : "RSA",
+	"type" : "normal"
+}
